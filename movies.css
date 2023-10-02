@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box sizing: border-box;
+}
+
+
+
+.encabezado {
+    background-image: url(./img/pelicula.jpg);
+    background-color: rgb(197, 34, 23);
+   
+    background-size: cover;
+    height:10vh;
+}
+.menu_superior {
+    font-family: fantasy;
+    font-size: 1.2rem;
+    background-color: blueviolet;
+
+    
+}
+.estrenos {
+    background-color: chartreuse;
+    font-palette:init
+}
+.imagenes {
+    display: inline;
+    background-color: beige;
+    width: 400px;
+    height: 200px;
+    margin: 5px 10px 5px 10px;
+    border-top: dashed 5px blueviolet;
+
+}
